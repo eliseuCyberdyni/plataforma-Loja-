@@ -1,0 +1,5 @@
+body{
+body { 
+font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f8f8f8; } .container { display: flex; gap: 20px; /* Espaçamento entre os carrinhos */ } .carrinho { width: 200px; padding: 15px; background: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center; border-radius: 10px; } .carrinho img { width: 100%; border-radius: 10px; } .carrinho button { margin-top: 10px; padding: 10px; width: 100%; background-color: #28a745; color: white; border: none; cursor: pointer; border-radius: 5px; } .carrinho button:hover { background-color: #218838; }  
+backgronud:180deg, #fff 0%, #fff 41.4%, #A444A6 41.4%, #A444A6 58.85%, #fff 58.85% ;
+}
